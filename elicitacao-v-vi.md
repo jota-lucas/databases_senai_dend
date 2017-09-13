@@ -22,6 +22,7 @@ Cada vendedor pode administrar um ou mais anuncios
 Cliente Físico = [-id + nome + sobrenome + telefone + endereco + data de nasc + cpf + email] -> alvo do formulario  
 Cliente Jurídico = [-id + nome_emp + telefone + endereco + cnpj + email] -> alvo do formulario  
 Fábrica = [-id + nome_fab + telefone + endereco + cnpj + email] -> gerador do formulario  
+Produto = [-id + nome + preco] -> motivo do formulario
 
 ![Relação das Entidades](https://github.com/jota-lucas/databases_senai_dend/blob/master/er2 "Relacionamento: Entidades do Caso VI")
 
