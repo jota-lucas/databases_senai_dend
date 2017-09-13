@@ -1,8 +1,8 @@
-*Estudo dos casos V e VI*
+#Estudo dos casos V e VI
 
 [Caso Imóvel](https://github.com/tmenegaz/db_dendezeiros/blob/master/assunto/casos.md#imóvel)
 
-** Entidades identificadas **
+**Entidades identificadas**
 Vendedor = [-id + nome + cpf + num_creci] -> responsável pela negociata
 Imóvel = [-id + endereco + area_uso + area_tot + dims + bairro + cidade + estado] -> item da negociata
 Anúncio = [-id, prc_min + prc_max + num_oferta + data_0] -> método da negociata
@@ -17,7 +17,7 @@ Cada vendedor pode administrar um ou mais anuncios
 
 [Caso Cadastro de Pessoa](https://github.com/tmenegaz/db_dendezeiros/blob/master/assunto/casos.md#cadastro-de-pessoa)
 
-** Entidades identificadas **
+**Entidades identificadas**
 Cliente Físico = [-id + nome + sobrenome + telefone + endereco + data de nasc + cpf + email] -> alvo do formulario
 Cliente Jurídico = [-id + nome_emp + telefone + endereco + cnpj + email] -> alvo do formulario
 Fábrica = [-id + nome_fab + telefone + endereco + cnpj + email] -> gerador do formulario
