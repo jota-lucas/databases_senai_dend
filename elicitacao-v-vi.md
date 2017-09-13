@@ -24,7 +24,7 @@ Cliente Jurídico = [-id + nome_emp + telefone + endereco + cnpj + email] -> alv
 Fábrica = [-id + nome_fab + telefone + endereco + cnpj + email] -> gerador do formulario  
 Produto = [-id + nome + preco] -> motivo do formulario
 
-![Relação das Entidades](https://github.com/jota-lucas/databases_senai_dend/blob/master/er2 "Relacionamento: Entidades do Caso VI")
+![Relação das Entidades](https://github.com/jota-lucas/databases_senai_dend/blob/master/er2.png "Relacionamento: Entidades do Caso VI")
 
 Cada cliente físico deve preencher o formulario a fim de adquirir os produtos da fabrica  
 Cada cliente jurídico deve preencher o formulario a fim de adquirir os produtos da fabrica  
