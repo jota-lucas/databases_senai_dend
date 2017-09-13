@@ -20,8 +20,6 @@ Cada vendedor pode administrar um ou mais anuncios
 Cliente Físico = [-id + nome + sobrenome + telefone + endereco + data de nasc + cpf + email] -> alvo do formulario
 Cliente Jurídico = [-id + nome_emp + telefone + endereco + cnpj + email] -> alvo do formulario
 Fábrica = [-id + nome_fab + telefone + endereco + cnpj + email] -> gerador do formulario
----------------------------------------------------------------------------------------------------------------------------
+
 Cada cliente físico deve preencher o formulario a fim de adquirir os produtos da fabrica
 Cada cliente jurídico deve preencher o formulario a fim de adquirir os produtos da fabrica
----------------------------------------------------------------------------------------------------------------------------
-
